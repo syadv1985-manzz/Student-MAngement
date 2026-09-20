@@ -30,9 +30,13 @@ The system stores:
 ## Project Structure
 Student_Management/
 │
+
 ├── student_management.py
+
 ├── student.txt
+
 ├── README.md
+
 └── .gitignore
 
 ## How to Run
