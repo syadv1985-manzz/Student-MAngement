@@ -1,7 +1,7 @@
 data=[]
 def addstudent():
     a=[]
-    name=input("Enter student name:")
+    name=input("student name enter chey:")
     try:
         rollno=int(input("Enter Roll Number"))
         marks=float(input("Enter Marks of the Student"))
